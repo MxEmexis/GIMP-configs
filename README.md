@@ -1,5 +1,5 @@
 # GIMP-configs
-My configurations for using GIMP in a Photoshop-like workflow.
+My configurations for using GIMP in a Photoshop-like workflow. Based on [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP).
 
 ## Included
 - [SLOS Gimpainter](https://github.com/SenlinOS/SLOS-GIMPainter)
